@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rodrigobrrj.github.io/lucifer-stickers/sitemap.xml
